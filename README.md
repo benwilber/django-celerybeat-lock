@@ -32,3 +32,5 @@ CELERYBEAT_LOCK_TIMEOUT = 60
 CELERYBEAT_LOCK_KEY = "celerybeat-lock"
 CELERYBEAT_LOCK_CACHE = "celery-broker"
 ```
+
+[![ghit.me](https://ghit.me/badge.svg?repo=benwilber/django-celerybeat-lock)](https://ghit.me/repo/benwilber/django-celerybeat-lock)
